@@ -23,10 +23,8 @@
   },
   "author": "HomeOffice",
   "dependencies": {
-    "browserify": "^17.0.0",
-    "deprecate": "^1.0.0",
-    "hof": "~22.8.4",
-    "homeoffice-countries": "^0.1.0",
+    "hof": "~22.10.4",
+    "homeoffice-countries": "^0.2.0",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
